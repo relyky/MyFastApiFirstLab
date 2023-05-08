@@ -11,9 +11,20 @@
 
 # 參考文件
 * [FastAPI](https://fastapi.tiangolo.com/)
-* [Uvicorn - Deployment](https://www.uvicorn.org/deployment/)
+* [Uvicorn](https://www.uvicorn.org/)
 * [Fast API Tutorial, Part 1: Introduction](https://www.youtube.com/watch?v=XnYYwcOfcn8&list=PLqAmigZvYxIL9dnYeZEhMoHcoP4zop8-p&ab_channel=JVPDesign)
 * [Python FastAPI 快速(指令)入門](https://linyencheng.github.io/2021/10/08/python-fast-api/)   
+
+# 關於部署(備用)
+依照 [Uvicorn - Deployment](https://www.uvicorn.org/deployment/) 部署說明可以部署到數個環境，但我們優先希望部署到 IIS 次為 Windows Services。
+### 部署到 IIS
+* [Configure Python web apps for IIS](https://learn.microsoft.com/en-us/visualstudio/python/configure-web-apps-for-iis-windows?view=vs-2022)
+* [How to deploy a FastAPI web app on IIS server?](https://stackoverflow.com/questions/68664339/how-to-deploy-a-fastapi-web-app-on-iis-server)
+### 部署成 Windows Service 
+* [Windows Service in Python](https://github.com/kbeaugrand-org/PythonFastApi)
+* [FastAPI as a Windows service](https://stackoverflow.com/questions/65591630/fastapi-as-a-windows-service)
+* [How to Create a FastAPI / Uvicorn Server Windows Service](https://medium.com/codex/how-to-create-a-fastapi-uvicorn-server-windows-service-af41f075dabf)
+* [PyInstaller](https://pyinstaller.org/)
 
 # 開發時下達指令主要過程
 ---------------------------
