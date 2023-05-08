@@ -1,0 +1,2 @@
+# MyFastApiFirstLab
+ FastAPI, Python, Swagger
