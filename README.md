@@ -25,6 +25,7 @@
 * [FastAPI as a Windows service](https://stackoverflow.com/questions/65591630/fastapi-as-a-windows-service)
 * [How to Create a FastAPI / Uvicorn Server Windows Service](https://medium.com/codex/how-to-create-a-fastapi-uvicorn-server-windows-service-af41f075dabf)
 * [PyInstaller](https://pyinstaller.org/)
+* [介紹好用工具：優異的 nssm 服務管理員](https://blog.miniasp.com/post/2021/09/15/Useful-tools-the-Non-Sucking-Service-Manager)
 
 # 開發時下達指令主要過程
 ---------------------------
